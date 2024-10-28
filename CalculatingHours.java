@@ -1,7 +1,6 @@
 import java.util.*;
 import java.lang.*;
 
-
 class CalculatingHours
 {
     public static void main (String[] args)
