@@ -1,0 +1,1 @@
+Welcome to this repository! I'm here to help you learn competitive programming in Java. This repository contains a collection of competitive programming questions. Try these problems to improve your problem-solving skills and become proficient in Java.
