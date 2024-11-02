@@ -13,7 +13,7 @@ public class Main {
             int x=sc.nextInt();
 
             int candies=n-x;
-
+            //Using ternary operator 
             int packets=(candies>0) ? (candies+3)/4 : 0;
 
             System.out.println(packets);
